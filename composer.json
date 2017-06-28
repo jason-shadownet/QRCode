@@ -1,0 +1,13 @@
+{
+    "name": "jason/q-rcode",
+    "description": "Generate a qr code on the fly",
+    "authors": [
+        {
+            "name": "jason",
+            "email": "bazieambroise@talis-technology.com"
+        }
+    ],
+    "require": {
+        "endroid/qrcode": "^2.2"
+    }
+}
